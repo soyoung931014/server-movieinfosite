@@ -2,7 +2,10 @@
   "name": "server-movieinfosite",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.js", 
+  "engines": {
+    "node": "16.x"
+  },
 
   "scripts": {
     "start": "node server.js"
